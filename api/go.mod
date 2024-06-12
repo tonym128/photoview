@@ -17,13 +17,13 @@ require (
 	github.com/otiai10/copy v1.7.0
 	github.com/pkg/errors v0.9.1
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
-	github.com/stretchr/testify v1.8.0
-	github.com/strukturag/libheif v1.12.0
-	github.com/vektah/gqlparser/v2 v2.4.6
+	github.com/stretchr/testify v1.9.0
+	github.com/strukturag/libheif v1.15.2
+	github.com/vektah/gqlparser/v2 v2.5.14
 	github.com/wsxiaoys/terminal v0.0.0-20160513160801-0940f3fc43a0
 	github.com/xor-gate/goexif2 v1.1.0
-	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
-	golang.org/x/image v0.0.0-20220617043117-41969df76e82
+	golang.org/x/crypto v0.20.0
+	golang.org/x/image v0.10.0
 	gopkg.in/vansante/go-ffprobe.v2 v2.0.3
 	gorm.io/driver/mysql v1.3.4
 	gorm.io/driver/postgres v1.3.8
@@ -37,18 +37,18 @@ require (
 	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
-	github.com/jackc/pgconn v1.12.1 // indirect
+	github.com/jackc/pgconn v1.14.3 // indirect
 	github.com/jackc/pgio v1.0.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
-	github.com/jackc/pgproto3/v2 v2.3.0 // indirect
-	github.com/jackc/pgservicefile v0.0.0-20200714003250-2b9c44734f2b // indirect
-	github.com/jackc/pgtype v1.11.0 // indirect
-	github.com/jackc/pgx/v4 v4.16.1 // indirect
+	github.com/jackc/pgproto3/v2 v2.3.3 // indirect
+	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
+	github.com/jackc/pgtype v1.14.0 // indirect
+	github.com/jackc/pgx/v4 v4.18.2 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/mattn/go-sqlite3 v1.14.14 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
